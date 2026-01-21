@@ -10,13 +10,13 @@ The platform focuses on orchestration and observability rather than direct infra
 
 In modern engineering teams, developers often depend heavily on DevOps teams to:
 
-Trigger deployments
+     Trigger deployments
 
-Track deployment status
+     Track deployment status
 
-Investigate failures
+      Investigate failures
 
-Understand service health
+    Understand service health
 
 This dependency slows down development and reduces visibility.
 
@@ -32,14 +32,16 @@ Enable traceability and accountability using audit logs
 
 Simulate real-world CI/CD orchestration behavior
 
+
 🧩 Key Features
+
 🔹 Service Catalog
 
-Centralized list of services
+   Centralized list of services
+ 
+   Environment separation (dev / staging / prod)
 
-Environment separation (dev / staging / prod)
-
-Health status indicators
+    Health status indicators
 
 🔹 Deployment Lifecycle Management
 
