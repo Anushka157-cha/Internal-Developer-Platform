@@ -124,11 +124,6 @@ Deployment: Vercel
 
 Version Control: Git & GitHub
 
-🚀 Live Demo
-
-🔗 Deployed on Vercel:
-
-https://<your-project-name>.vercel.app
 
 🧪 Deployment Flow (Simulated)
 
@@ -166,6 +161,7 @@ Event-driven deployment state transitions
 
 Decoupled UI and orchestration logic
 
+
 🧠 Learnings
 
 Platform engineering fundamentals
@@ -177,6 +173,7 @@ Deployment lifecycle management
 Observability and governance concepts
 
 Real-world CI/CD orchestration patterns
+
 
 🔮 Future Enhancements
 
@@ -194,4 +191,4 @@ Webhook-based deployment updates
 🙌 Author
 
 Anushka Chaudhary
-Frontend / Platform Engineering Enthusiast
+FullStack 
